@@ -1,2 +1,2 @@
 # Art-Food-Restaurant-Bar
-A modern and responsive restaurant website built with HTML, CSS, and JavaScript, featuring a clean design, interactive elements, and mobile-friendly layouts.
+A modern, elegant, and fully responsive restaurant website developed using HTML5, CSS3, and JavaScript. The project features a clean and visually appealing user interface, interactive navigation, well-structured layouts, and mobile-friendly design. It provides a smooth browsing experience across desktop, tablet, and mobile devices, with a focus on usability, accessibility, and modern web design principles. This project demonstrates practical front-end development skills, responsive design techniques, and website customization.
